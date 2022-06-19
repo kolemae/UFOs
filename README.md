@@ -13,7 +13,7 @@ Project using Javascript, CSS, and HTML to format and display UFO Sighting data 
 ## Overview of Project
 My client Dana wanted me to create a website with UFO sightings and filters for different objects such as date, city, state, country, and shape of event.
 
-- Website Filter Function (using shape: circle)
+- Website Filter Function Using Shape: Circle)
 
 ![Filters](/static/images/Filters.png)
 
