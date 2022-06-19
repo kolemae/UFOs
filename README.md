@@ -23,9 +23,7 @@ The webpage is built to automatically update the table upon changes to the filte
 ## Summary
 Some drawback of the design are that
 - Users may prefer having a button
-- Some of the table data is not formatted uniformally, making input ineffective
+- Some of the table data is not formatted uniformally, making input ineffective (seen in image below)
 - Input that isn't an exact match will not show on the table - IE: Ingleside for city will not return ingleside (canada)
-
-- Duration Differences in the Table
 
 ![Filters](/static/images/Table.png)
